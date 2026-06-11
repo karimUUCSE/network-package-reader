@@ -39,6 +39,11 @@ build/
 .DS_Store
 
 ### Captures ###
+captures/output/
+captures/input/
 .csv
 .json
 .pcap
+
+!captures/output/.gitkeep
+!captures/input/.gitkeep
