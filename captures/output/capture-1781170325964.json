@@ -1,0 +1,233 @@
+[ {
+  "packetNumber" : 1,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 60,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 2,
+  "protocol" : "UDP",
+  "source" : "192.168.20.208",
+  "destination" : "224.0.0.251",
+  "size" : 234,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 3,
+  "protocol" : "UDP",
+  "source" : "fe80:0:0:0:c61:cc24:108f:3eff",
+  "destination" : "ff02:0:0:0:0:0:0:fb",
+  "size" : 254,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 4,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 64,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 5,
+  "protocol" : "UDP",
+  "source" : "192.168.20.208",
+  "destination" : "224.0.0.251",
+  "size" : 234,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 6,
+  "protocol" : "UDP",
+  "source" : "fe80:0:0:0:c61:cc24:108f:3eff",
+  "destination" : "ff02:0:0:0:0:0:0:fb",
+  "size" : 254,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 7,
+  "protocol" : "UDP",
+  "source" : "192.168.20.206",
+  "destination" : "142.250.67.170",
+  "size" : 71,
+  "info" : "Port 49522 -> 443",
+  "payloadPreview" : "loGYgvl)z3S"
+}, {
+  "packetNumber" : 8,
+  "protocol" : "UDP",
+  "source" : "142.250.67.170",
+  "destination" : "192.168.20.206",
+  "size" : 74,
+  "info" : "Port 443 -> 49522",
+  "payloadPreview" : "A2X)M]B4rzqu\\"
+}, {
+  "packetNumber" : 9,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 92,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 10,
+  "protocol" : "UDP",
+  "source" : "fe80:0:0:0:6f4:1cff:fe04:10c9",
+  "destination" : "ff02:0:0:0:0:0:0:1",
+  "size" : 233,
+  "info" : "Port 5678 -> 5678",
+  "payloadPreview" : "AIR Infosys Limited#7.16.2 (stable) 2024-11-26 12:09:40MikroTik7X79-27A8CCR2004-16G-2S+VLAN-20"
+}, {
+  "packetNumber" : 11,
+  "protocol" : "UDP",
+  "source" : "192.168.20.1",
+  "destination" : "255.255.255.255",
+  "size" : 213,
+  "info" : "Port 5678 -> 5678",
+  "payloadPreview" : "AIR Infosys Limited#7.16.2 (stable) 2024-11-26 12:09:40MikroTik7X79-27A8CCR2004-16G-2S+VLAN-20"
+}, {
+  "packetNumber" : 12,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 60,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 13,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 64,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 14,
+  "protocol" : "UDP",
+  "source" : "192.168.20.208",
+  "destination" : "224.0.0.251",
+  "size" : 234,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 15,
+  "protocol" : "UDP",
+  "source" : "fe80:0:0:0:c61:cc24:108f:3eff",
+  "destination" : "ff02:0:0:0:0:0:0:fb",
+  "size" : 254,
+  "info" : "Port 5353 -> 5353",
+  "payloadPreview" : "IRINFOSYSs MacBook Pro (2)_companion-link_tcplocal[rpBA=9E:7A:5C:88:21:14rpAD=4813fcb273cdrpFl=0x20000rpHN=e083489cddd5rpMac=0rpVr=715.2/@"
+}, {
+  "packetNumber" : 16,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 105,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : "\"?_w%8qN*"
+}, {
+  "packetNumber" : 17,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 90,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : "j6#'vt<"
+}, {
+  "packetNumber" : 18,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 66,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 19,
+  "protocol" : "TCP",
+  "source" : "151.101.129.91",
+  "destination" : "192.168.20.206",
+  "size" : 66,
+  "info" : "Port 443 -> 32840",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 20,
+  "protocol" : "TCP",
+  "source" : "151.101.129.91",
+  "destination" : "192.168.20.206",
+  "size" : 66,
+  "info" : "Port 443 -> 32840",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 21,
+  "protocol" : "TCP",
+  "source" : "151.101.129.91",
+  "destination" : "192.168.20.206",
+  "size" : 90,
+  "info" : "Port 443 -> 32840",
+  "payloadPreview" : "'UYPNP[="
+}, {
+  "packetNumber" : 22,
+  "protocol" : "TCP",
+  "source" : "151.101.129.91",
+  "destination" : "192.168.20.206",
+  "size" : 66,
+  "info" : "Port 443 -> 32840",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 23,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 54,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 24,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 54,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 25,
+  "protocol" : "TCP",
+  "source" : "151.101.129.91",
+  "destination" : "192.168.20.206",
+  "size" : 66,
+  "info" : "Port 443 -> 32840",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 26,
+  "protocol" : "TCP",
+  "source" : "192.168.20.206",
+  "destination" : "151.101.129.91",
+  "size" : 54,
+  "info" : "Port 32840 -> 443",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 27,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 60,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 28,
+  "protocol" : "UNKNOWN",
+  "source" : "-",
+  "destination" : "-",
+  "size" : 64,
+  "info" : "",
+  "payloadPreview" : ""
+}, {
+  "packetNumber" : 29,
+  "protocol" : "UDP",
+  "source" : "192.168.20.208",
+  "destination" : "239.255.255.250",
+  "size" : 213,
+  "info" : "Port 63223 -> 1900",
+  "payloadPreview" : "M-SEARCH * HTTP/1.1HOST: 239.255.255.250:1900MAN: \"ssdp:discover\"MX: 1ST: urn:dial-multiscreen-org:service:dial:1USER-AGENT: Chromium/146.0.7680.179 Mac OS X"
+} ]
