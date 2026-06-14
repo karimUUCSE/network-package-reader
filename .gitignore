@@ -43,6 +43,7 @@ captures/output/
 captures/input/
 .csv
 .json
+.docs
 .pcap
 
 !captures/output/.gitkeep
